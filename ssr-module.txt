@@ -1,5 +1,5 @@
 #!name=ssr-module
-#!desc=
+#!desc=kingfusecure
 
 [Rule]
 DOMAIN-SUFFIX,bingx.com,PROXY
