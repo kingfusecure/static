@@ -1,0 +1,5 @@
+#!name=ssr-module
+#!desc=
+
+[Rule]
+DOMAIN-SUFFIX,bingx.com,PROXY
